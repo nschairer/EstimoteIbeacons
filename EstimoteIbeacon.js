@@ -16,6 +16,5 @@ Bleacon.on('discover', function(bleacon) {
                 }
                 console.log('file saved')
         });
-                console.log(beacons[bleacon.minor],bleacon.rssi)
 
 });
